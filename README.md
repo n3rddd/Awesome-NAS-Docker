@@ -27,7 +27,8 @@
 
 ### 最新动态
 
-1、open claw智能体开发，打造龙虾王国：
+1、open claw智能体开发，打造龙虾王国，欢迎提需求：
+
 [万神殿项目](https://phanthy.com/novels/landing/erbing)
 
 2、研究 **n8n** 工作流自动化，探索优秀 Docker 项目与 n8n 的结合落地。感兴趣的兄弟可以一起研究哈！
